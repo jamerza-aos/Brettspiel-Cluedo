@@ -1,0 +1,44 @@
+body{
+    background: url(https://cdn01.nintendo-europe.com/media/images/11_square_images/games_18/nintendo_switch_download_software/SQ_NSwitchDS_Cluedo_image500w.jpg)center/cover no-repeat;
+    width: 95%;
+    height: 550px;
+}
+section{
+   
+    /* flex-direction: column; */
+    text-align: center; 
+    margin-top: 3%;
+    margin-left: 25%;
+     
+} 
+
+
+img{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+
+#res {
+    font-size: 22px;
+    width: 25%;
+    height: 15px;
+    color: whitesmoke;
+    margin-left: 50%;
+    
+}
+#but{
+    font-size: 30px;
+    background: rgba(255, 0, 13, 0.979);
+    color: white;
+    border-radius: 5%;
+    margin-left: 27%; 
+    margin-bottom: 5%;
+    padding: 10px;
+    margin-top: 60%;
+}
+#but:hover{
+    border: 1px solid black;
+    background: rgba(255, 212, 71, 0.746);
+}
